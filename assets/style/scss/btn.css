@@ -1,0 +1,29 @@
+.btn-warn{
+    padding: 3px;
+    display: inline-block;
+    text-align: center;
+    font-size: small;
+    color: rgb(255, 255, 255);
+    border-radius: 2px;
+    background-color: rgb(226, 151, 162);
+  }
+
+  .btn-acc{
+    padding: 3px;
+    display: inline-block;
+    text-align: center;
+    font-size: small;
+    color: rgb(255, 255, 255);
+    border-radius: 2px;
+    background-color: rgb(130, 216, 130);
+  }
+
+  .btn-in{
+    padding: 3px;
+    display: inline-block;
+    text-align: center;
+    font-size: small;
+    color: rgb(255, 255, 255);
+    border-radius: 2px;
+    background-color: rgb(130, 173, 216);
+  }
